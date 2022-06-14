@@ -94,6 +94,7 @@ public class DetectCollider : MonoBehaviour
 ```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/75235554/173617836-3f4b06ff-e8e8-4736-9349-460cff5b487b.png)
 
 ## Result:
 Animal feeding game-Phase-2 using unity is developed successfully.
